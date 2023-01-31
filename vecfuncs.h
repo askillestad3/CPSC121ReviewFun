@@ -8,7 +8,8 @@
 
 using namespace std;
 
-void fillVector(vector<int>&);   // prototype
+// prototypes
+void fillVector(vector<int>&);   
 void findExtremes(vector<int>&, int&, int&);
 
 #endif
