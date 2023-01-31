@@ -1,6 +1,7 @@
 #include "vecfuncs.h"
 
-// this is a comment - change
+// this is a comment
+// another comment!!
 
 int main() {
   int min, max;
